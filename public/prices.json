@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Access during regular hours",
+        "Cardio equipment",
+        "Strength training equipment",
+        "Locker room access",
+        "No commitment"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Strength training equipment",
+        "Group fitness classes",
+        "Personalized workout plan",
+        "Locker room access",
+        "No commitment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Platinum Membership",
+      "price": 79.99,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Strength training equipment",
+        "Group fitness classes",
+        "Personalized workout plan",
+        "Locker room access",
+        "Free personal training session",
+        "No commitment"
+      ]
+    }
+  ]
+  
